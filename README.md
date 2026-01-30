@@ -66,4 +66,4 @@ Explore-India-Map/
 
 
 
-Github:https://Ammani168/Interactive-Quiz
+Github:https://Ammani168/Interactive-map
